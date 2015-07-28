@@ -1,3 +1,4 @@
+set -eu
 
 rm -f test
 rm -f test.o
